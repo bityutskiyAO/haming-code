@@ -1,8 +1,8 @@
 ## Steps to run app
-1) git clone https://github.com/bityutskiyAO/haming-code.git
-2) cd haming-code
-3) npm i && npm run start
-4) npm run server
+1) `git clone https://github.com/bityutskiyAO/haming-code.git`
+2) `cd haming-code`
+3) `npm i && npm run start`
+4) `npm run server`
 
 ## Available Scripts
 
